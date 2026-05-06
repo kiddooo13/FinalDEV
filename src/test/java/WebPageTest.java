@@ -14,7 +14,7 @@ public class WebPageTest
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         Thread.sleep(2000);
-        driver.get("https://kiddooo13.github.io/ProgramDev/");
+        driver.get("https://kiddooo13.github.io/FinalDEV/");
     }
     @Test
     public void titleValidationTest()
